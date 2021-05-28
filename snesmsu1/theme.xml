@@ -1,0 +1,27 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+  <text name="nameLabel" extra="true">
+    <text>SNES MSU-1</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line1" extra="true">
+    <text>Super Nintendo</text>
+
+  </text>
+  <text name="sys_line2" extra="true">
+    <text>MSU-1</text>
+
+</text>
+  <text name="shortdescription" extra="true">
+   <text>1990  ·  16-bit Console</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The MSU-1 is a custom coprocessor for the SNES that enables playback of CD-quality audio and full-motion video</text>
+  </text>
+ </view>
+</theme>

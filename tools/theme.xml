@@ -1,0 +1,23 @@
+<theme>
+<formatVersion>7</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="basic, detailed, video, grid">
+    <text name="nameLabel" extra="true">
+    <text>Tools</text>
+  </text>
+</view>    
+
+<view name="system">
+  <text name="sys_line2" extra="true">
+    <text>Tools</text>
+
+  </text> 
+  <text name="shortdescription" extra="true">
+   <text>System Configuration</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Access settings for RetroArch (32- or 64-bit) and the Playstation Portable emulator (PPSSPP), or manage the file system</text>
+  </text>
+ </view>
+</theme>
